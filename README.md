@@ -2,7 +2,7 @@
 
 Hello there 👋 <br>Here is 0xS4Y3D
 
-I regularly participate in CTFs locally and globally. So I would like to share my writeups here in this repo. <br>
+I regularly participate in CTFs locally and globally. So I would like to share my writeups & solvers here. <br>
 I hope this helps the community.
 
 <br>
