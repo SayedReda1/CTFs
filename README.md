@@ -1,6 +1,6 @@
 # CTF-Writeups
 
-Hello there 👋 <br>Here is 0xS4Y3D
+Hello there 👋 <br>Here is Sayed (aka, 0xS4Y3D)
 
 I regularly participate in CTFs locally and globally. So I would like to share my writeups & solvers here. <br>
 I hope this helps the community.
