@@ -7,7 +7,8 @@ I hope this helps the community.
 
 <br>
 
-If any issues or event problems with my approaches, please reach me at:
-- Linkedin: [SayedReda1](https://www.linkedin.com/in/sayedreda1/)
-- Twitter: [SayedReda0](https://www.linkedin.com/in/sayedreda1/)
+Reach me out:<br>
+[<img src="https://img.shields.io/badge/-SayedReda1-black?style=flat&logo=github">](https://github.com/SayedReda1) 
+[<img src="https://img.shields.io/badge/-Sayed%20Reda-blue?style=flat&logo=linkedin">](https://www.linkedin.com/in/sayedreda1/) 
+[<img src="https://img.shields.io/badge/-SayedReda0-black?style=flat&logo=x">](https://twitter.com/SayedReda0)
 
